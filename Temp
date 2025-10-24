@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ARDB</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>
+            Name of ride
+        </h1>
+        <img src="RideName.jpg">
+        <h3>
+            Ride Stats: <br>
+            Height: <br>
+            Speed: <br>
+            Track Length: <br>
+            Ride Time: <br>
+            Inversions: <br>
+            Classification (Model):  <br>
+            Thrill Rating:
+        </h3>
+        <h4>
+            Important Information: <br>
+            Manufacturer: <br>
+            Located in: 
+        </h4>
+    </body>
+</html>
